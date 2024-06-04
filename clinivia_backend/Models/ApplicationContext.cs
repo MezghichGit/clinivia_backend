@@ -9,5 +9,6 @@ namespace clinivia_backend.Models
     {
             public ApplicationContext(DbContextOptions<ApplicationContext> options) : base(options) { }
             public DbSet<Departement> Departements { get; set; }
+            public DbSet<User> Users { get; set; }
     }
 }
