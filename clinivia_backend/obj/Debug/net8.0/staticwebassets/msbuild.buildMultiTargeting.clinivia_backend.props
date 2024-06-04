@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\clinivia_backend.props" />
+</Project>
