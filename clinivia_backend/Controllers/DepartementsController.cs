@@ -23,7 +23,7 @@ namespace clinivia_backend.Controllers
 
         // GET: api/Departements
         [HttpGet]
-        [Authorize]
+        //[Authorize]
         public async Task<ActionResult<IEnumerable<Departement>>> GetDepartements()
         {
             return await _context.Departements.ToListAsync();
