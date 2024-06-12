@@ -5,12 +5,16 @@
       "PackagePath": "staticwebassets\\uploads\\API.docx"
     },
     {
-      "Id": "C:\\Users\\amine\\source\\repos\\clinivia_backend\\clinivia_backend\\wwwroot\\uploads\\Attestation_stage_SIP_Mohamed_Akkez.docx",
-      "PackagePath": "staticwebassets\\uploads\\Attestation_stage_SIP_Mohamed_Akkez.docx"
+      "Id": "C:\\Users\\amine\\source\\repos\\clinivia_backend\\clinivia_backend\\wwwroot\\uploads\\Angular_Doctor.docx",
+      "PackagePath": "staticwebassets\\uploads\\Angular_Doctor.docx"
     },
     {
-      "Id": "C:\\Users\\amine\\source\\repos\\clinivia_backend\\clinivia_backend\\wwwroot\\uploads\\Cahier_charges_Biwai.docx",
-      "PackagePath": "staticwebassets\\uploads\\Cahier_charges_Biwai.docx"
+      "Id": "C:\\Users\\amine\\source\\repos\\clinivia_backend\\clinivia_backend\\wwwroot\\uploads\\patients\\0001_01_01_00_00_00_SMART IT_CV_mezghich.doc",
+      "PackagePath": "staticwebassets\\uploads\\patients\\0001_01_01_00_00_00_SMART IT_CV_mezghich.doc"
+    },
+    {
+      "Id": "C:\\Users\\amine\\source\\repos\\clinivia_backend\\clinivia_backend\\wwwroot\\uploads\\patients\\a_CV_mezghich.doc",
+      "PackagePath": "staticwebassets\\uploads\\patients\\a_CV_mezghich.doc"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.clinivia_backend.props",

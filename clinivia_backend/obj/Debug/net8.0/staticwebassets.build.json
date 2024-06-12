@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ePyYixISJgF5jABAzBqf3pU3aEJ5GkKqKxcYfw7WTu4=",
+  "Hash": "Y5l0thTOQYigG1DV012T4Rz6uVzK2xCquxYbJM6SSCY=",
   "Source": "clinivia_backend",
   "BasePath": "_content/clinivia_backend",
   "Mode": "Default",
@@ -15,5 +15,82 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\amine\\source\\repos\\clinivia_backend\\clinivia_backend\\wwwroot\\uploads\\Angular_Doctor.docx",
+      "SourceId": "clinivia_backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\amine\\source\\repos\\clinivia_backend\\clinivia_backend\\wwwroot\\",
+      "BasePath": "_content/clinivia_backend",
+      "RelativePath": "uploads/Angular_Doctor.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Angular_Doctor.docx"
+    },
+    {
+      "Identity": "C:\\Users\\amine\\source\\repos\\clinivia_backend\\clinivia_backend\\wwwroot\\uploads\\API.docx",
+      "SourceId": "clinivia_backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\amine\\source\\repos\\clinivia_backend\\clinivia_backend\\wwwroot\\",
+      "BasePath": "_content/clinivia_backend",
+      "RelativePath": "uploads/API.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\API.docx"
+    },
+    {
+      "Identity": "C:\\Users\\amine\\source\\repos\\clinivia_backend\\clinivia_backend\\wwwroot\\uploads\\patients\\0001_01_01_00_00_00_SMART IT_CV_mezghich.doc",
+      "SourceId": "clinivia_backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\amine\\source\\repos\\clinivia_backend\\clinivia_backend\\wwwroot\\",
+      "BasePath": "_content/clinivia_backend",
+      "RelativePath": "uploads/patients/0001_01_01_00_00_00_SMART IT_CV_mezghich.doc",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\patients\\0001_01_01_00_00_00_SMART IT_CV_mezghich.doc"
+    },
+    {
+      "Identity": "C:\\Users\\amine\\source\\repos\\clinivia_backend\\clinivia_backend\\wwwroot\\uploads\\patients\\a_CV_mezghich.doc",
+      "SourceId": "clinivia_backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\amine\\source\\repos\\clinivia_backend\\clinivia_backend\\wwwroot\\",
+      "BasePath": "_content/clinivia_backend",
+      "RelativePath": "uploads/patients/a_CV_mezghich.doc",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\patients\\a_CV_mezghich.doc"
+    }
+  ]
 }
