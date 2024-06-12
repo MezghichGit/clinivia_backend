@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "xIszlly7XCzYlttr/iKcLte8E+Ga64sxZutX2RsVooU=",
+  "Hash": "ePyYixISJgF5jABAzBqf3pU3aEJ5GkKqKxcYfw7WTu4=",
   "Source": "clinivia_backend",
   "BasePath": "_content/clinivia_backend",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "clinivia_backend\\wwwroot",
+      "Source": "clinivia_backend",
+      "ContentRoot": "C:\\Users\\amine\\source\\repos\\clinivia_backend\\clinivia_backend\\wwwroot\\",
+      "BasePath": "_content/clinivia_backend",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

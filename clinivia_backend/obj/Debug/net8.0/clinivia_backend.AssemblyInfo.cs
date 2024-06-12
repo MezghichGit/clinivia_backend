@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("clinivia_backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+182cf5614629c62e378ea2e39d344dc2db41daca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1c924f340781c5a26048f3a52e22607417a51e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("clinivia_backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("clinivia_backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

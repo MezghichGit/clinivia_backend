@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using static System.Runtime.InteropServices.JavaScript.JSType;
-
+using System.Text.Json.Serialization;
 namespace clinivia_backend.Models
 {
     public class Departement
@@ -13,5 +13,7 @@ namespace clinivia_backend.Models
         public string D_head { get; set; }
         public DateTime D_date { get; set; }
         public string D_status { get; set; }
+        [JsonIgnore]
+        public ICollection<Docteur> Docteurs { get; set; }
     }
 }

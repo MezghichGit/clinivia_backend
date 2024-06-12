@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using clinivia_backend.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace clinivia_backend.Controllers
 {
@@ -22,6 +23,7 @@ namespace clinivia_backend.Controllers
 
         // GET: api/Departements
         [HttpGet]
+        [Authorize]
         public async Task<ActionResult<IEnumerable<Departement>>> GetDepartements()
         {
             return await _context.Departements.ToListAsync();
